@@ -1,11 +1,11 @@
 {
   "basics": {
-    "name": "Rasheed Hasan",
+    "name": "Rasheed-Hasan",
     "label": "Translator",
     "picture": "https://Rasheed-Hasan.github.io/images/icon.ico",
     "email": "rasheed.mrh@hotmail.com",
     "phone": "+963-934698332",
-    "website": "https://mmaluhia.github.io",
+    "website": "https://Rasheed-Hasan.github.io",
     "summary": "I am an Arabic-English Translator",
     "location": {
       "address": "",
@@ -43,15 +43,13 @@
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "Languages",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Arabic",
+        "English",
+        "German",
+        "Russian",
       ]
     },
     {
