@@ -2,7 +2,7 @@
   "basics": {
     "name": "Rasheed Hasan",
     "label": "Translator",
-    "picture": "https://Rasheed-Hasan.github.io/template/images/icon 2.png",
+    "picture": "https://Rasheed-Hasan.github.io/images/icon 2.png",
     "email": "rasheed.mrh@hotmail.com",
     "phone": "+963-934698332",
     "website": "https://mmaluhia.github.io",
@@ -29,19 +29,14 @@
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Translation",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "Arabic",
+        "English"
       ]
     },
     {
-      "name": "data mining",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "artificial intelligence",
+      "name": "Teaching",
       "keywords": [
       ]
     }
@@ -73,9 +68,9 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
+      "institution": "Damascus University",
+      "area": "English Literature",
+      "studyType": "B.A.",
       "startDate": "2013-09-01",
       "endDate": "Present",
       "gpa": "",
